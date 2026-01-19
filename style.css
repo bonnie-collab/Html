@@ -1,0 +1,15 @@
+a{
+    background-color: aquamarine;
+    border: 10px;
+    padding: 10px;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 3px 15px 8px 20px;
+    font-weight: bolder;
+    color: white;
+    background-color: brown;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
