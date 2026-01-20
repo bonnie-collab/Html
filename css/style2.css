@@ -1,0 +1,39 @@
+body{
+    background-color: pink;
+}
+
+/* heading styling */
+h1{
+    word-spacing: 16px;
+    letter-spacing: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2{
+    /* borders */
+    border-top: 5px blue groove;
+    border-right: 5px limegreen solid;
+    border-bottom: 5px green solid;
+    border-left:  5px blue solid;
+
+    /* margins */
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+    margin-left: 40px;
+
+    /* padding */
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+
+    background-color: brown;
+}
+a{
+    background-color: brown;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 10px;
+}

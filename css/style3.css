@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+
+#par1{
+    color: aqua;
+    background-color: gold;
+    font-size: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#par2{
+    color: blue;
+    font-size: 18px;
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: end;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+#par3{
+    color: chartreuse;
+    background-color: brown;
+    font-size: 20px;
+    text-decoration: overline;
+    padding: 15px;
+}
+#spn{
+    color: blue;
+    font-size: 30px;
+}
+
+.mypar{
+    color: crimson;
+    font-size: 20px;
+    padding: 10px;
+    background-color: wheat;
+}
+
+.div{
+    color: yellow;
+    font-size: 20px;
+}
